@@ -870,13 +870,11 @@ footer .adjust p {
   .s2-text .h {
     font-size: 10.5px;
     line-height: 140px;
-    letter-spacing: -3px;
   }
 
   .s2-text .sub-h {
     font-size: 50px;
     line-height: 95%;
-    letter-spacing: -3px;
   }
 
   .b-list ul {
@@ -898,13 +896,11 @@ footer .adjust p {
   .headtext .h {
     font-size: 50px;
     line-height: 95%;
-    letter-spacing: -3%;
   }
 
   .headtext .sub-h {
     font-size: 16px;
     line-height: 130%;
-    letter-spacing: -1px;
   }
 
   .biglist section {
@@ -918,7 +914,6 @@ footer .adjust p {
   .specs-text .head {
     font-size: 13px;
     line-height: 140%;
-    letter-spacing: -3px;
     font-weight: 500;
   }
   .specs-container {
@@ -976,5 +971,9 @@ footer .adjust p {
   footer .ft-menu {
     flex-direction: column;
     align-items: flex-start;
+  }
+
+  footer .footlogo{
+    flex-wrap: wrap;
   }
 }
