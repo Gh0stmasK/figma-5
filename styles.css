@@ -808,6 +808,8 @@ footer .adjust p {
   .headofdata .text {
     padding-right: 50px;
     padding-left: 0px;
+    padding-top: 55px;
+    padding-bottom: 120px;
   }
   .headofdata .text div {
     flex-direction: row;
@@ -821,7 +823,7 @@ footer .adjust p {
   .s2-text .h {
     font-size: 11px;
     line-height: 140px;
-    letter-spacing: -1%;
+    letter-spacing: -1px;
   }
 
   .s2-text .sub-h {
@@ -853,7 +855,7 @@ footer .adjust p {
   .hero h1 {
     font-size: 76px;
     line-height: 85%;
-    letter-spacing: -4.5%;
+    letter-spacing: -4.5px;
     text-align: center;
   }
 
@@ -868,13 +870,13 @@ footer .adjust p {
   .s2-text .h {
     font-size: 10.5px;
     line-height: 140px;
-    letter-spacing: -3%;
+    letter-spacing: -3px;
   }
 
   .s2-text .sub-h {
     font-size: 50px;
     line-height: 95%;
-    letter-spacing: -3%;
+    letter-spacing: -3px;
   }
 
   .b-list ul {
@@ -902,7 +904,7 @@ footer .adjust p {
   .headtext .sub-h {
     font-size: 16px;
     line-height: 130%;
-    letter-spacing: -1%;
+    letter-spacing: -1px;
   }
 
   .biglist section {
@@ -916,7 +918,7 @@ footer .adjust p {
   .specs-text .head {
     font-size: 13px;
     line-height: 140%;
-    letter-spacing: -3%;
+    letter-spacing: -3px;
     font-weight: 500;
   }
   .specs-container {
