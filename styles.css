@@ -34,7 +34,7 @@ nav .logo {
   font-weight: 500;
   font-size: 30px;
   line-height: 150%;
-  letter-spacing: -5%;
+  letter-spacing: -2px;
   text-decoration: none;
   color: black;
 }
@@ -68,7 +68,7 @@ nav .logo {
   font-weight: bold;
   font-size: 14px;
   line-height: 140%;
-  letter-spacing: -2.5%;
+  letter-spacing: -0.5px;
   color: black;
   display: flex;
   align-items: center;
@@ -82,7 +82,7 @@ nav .logo {
   font-weight: bold;
   font-size: 14px;
   line-height: 140%;
-  letter-spacing: -2.5%;
+  letter-spacing: -0.5px;
   color: #ffffff;
   background-color: #485c11;
   width: 127px;
@@ -99,7 +99,7 @@ nav .logo {
   font-size: 160px;
   font-weight: 400;
   line-height: 85%;
-  letter-spacing: -5%;
+  letter-spacing: -5px;
   text-align: center;
 }
 
@@ -130,7 +130,7 @@ nav .logo {
   color: #6f6f6f;
   font-weight: 400;
   line-height: 140%;
-  letter-spacing: -0.5%;
+  letter-spacing: -0.5px;
 }
 .trustees {
   display: flex;
@@ -169,7 +169,7 @@ nav .logo {
   line-height: 140%;
   font-weight: 400;
   font-size: 12px;
-  letter-spacing: -1%;
+  letter-spacing: -1px;
   color: #485c11;
 }
 
@@ -178,7 +178,7 @@ nav .logo {
   line-height: 90%;
   font-size: 60px;
   font-weight: 400;
-  letter-spacing: -3%;
+  letter-spacing: -3px;
 }
 
 .s2-text .s2-desc {
@@ -187,7 +187,7 @@ nav .logo {
   font-weight: 400;
   color: #6f6f6f;
   line-height: 140%;
-  letter-spacing: -0.5%;
+  letter-spacing: -0.5px;
 }
 
 .b-list {
@@ -226,7 +226,7 @@ nav .logo {
   font-family: "Crimson Text", serif;
   font-weight: 400;
   line-height: 100%;
-  letter-spacing: -3%;
+  letter-spacing: -0.3px;
   font-size: 18px;
 }
 
@@ -236,7 +236,7 @@ nav .logo {
   font-weight: 400;
   color: #6f6f6f;
   line-height: 140%;
-  letter-spacing: -0.5%;
+  letter-spacing: -0.5px;
 }
 
 .sec2-img {
@@ -268,7 +268,7 @@ nav .logo {
   font-size: 60px;
   font-weight: 400;
   line-height: 90%;
-  letter-spacing: -3%;
+  letter-spacing: -3px;
 }
 
 .headtext .sub-h {
@@ -277,7 +277,7 @@ nav .logo {
   font-size: 15px;
   color: #6f6f6f;
   line-height: 140%;
-  letter-spacing: -0.5%;
+  letter-spacing: -0.5px;
 }
 
 .biglist-container {
@@ -311,7 +311,7 @@ nav .logo {
   font-weight: bold;
   font-size: 15px;
   line-height: 140%;
-  letter-spacing: -0.5%;
+  letter-spacing: -0.5px;
   color: #6f6f6f;
 }
 
@@ -320,7 +320,7 @@ nav .logo {
   font-weight: 400;
   font-size: 15px;
   line-height: 140%;
-  letter-spacing: -0.5%;
+  letter-spacing: -0.5;
 }
 
 .btn {
@@ -328,7 +328,7 @@ nav .logo {
   font-size: 14px;
   font-weight: bold;
   line-height: 140%;
-  letter-spacing: -2.5%;
+  letter-spacing: -0.5px;
   background-color: #dfecc6;
   padding: 22px 14px;
   border-radius: 1000px;
@@ -378,7 +378,7 @@ nav .logo {
   line-height: 140%;
   font-weight: 400;
   font-size: 12px;
-  letter-spacing: -1%;
+  letter-spacing: -1px;
   color: #485c11;
   text-align: center;
 }
@@ -388,7 +388,7 @@ nav .logo {
   font-size: 60px;
   font-weight: 400;
   line-height: 90%;
-  letter-spacing: -3%;
+  letter-spacing: -3px;
   text-align: center;
 }
 
@@ -398,7 +398,7 @@ nav .logo {
   font-size: 15px;
   color: #6f6f6f;
   line-height: 130%;
-  letter-spacing: -1%;
+  letter-spacing: -0.5px;
   text-align: center;
 }
 
@@ -432,7 +432,7 @@ nav .logo {
   font-weight: 600;
   font-size: 25px;
   line-height: 120%;
-  letter-spacing: -8%;
+  letter-spacing: -2px;
   color: #a8a8a8;
   padding: 30px 30px;
   transition: color 180ms ease;
@@ -455,7 +455,7 @@ nav .logo {
   font-weight: 600;
   font-size: 25px;
   line-height: 120%;
-  letter-spacing: -8%;
+  letter-spacing: -2px;
   color: #a8a8a8;
   padding: 30px 30px;
 }
@@ -477,7 +477,7 @@ nav .logo {
   font-weight: 600;
   font-size: 25px;
   line-height: 120%;
-  letter-spacing: -8%;
+  letter-spacing: -2px;
   color: #a8a8a8;
   padding: 30px 30px;
 }
@@ -507,7 +507,6 @@ nav .logo {
   font-size: 12px;
   font-weight: 400;
   line-height: 140%;
-  letter-spacing: -1%;
 }
 
 .headofdata {
@@ -541,9 +540,8 @@ nav .logo {
 .headofdata .text p {
   font-family: "Crimson Text", serif;
   font-weight: 400;
-  font-size: 36px;
+  font-size: 40px;
   line-height: 105%;
-  letter-spacing: -4%;
 }
 
 .headofdata .text .p-name {
@@ -551,7 +549,7 @@ nav .logo {
   font-size: 14px;
   font-weight: 500;
   line-height: 130%;
-  letter-spacing: -1%;
+  letter-spacing: -0.5px;
 }
 
 .headofdata .text .p-dep {
@@ -559,7 +557,7 @@ nav .logo {
   font-size: 13px;
   font-weight: 500;
   line-height: 130%;
-  letter-spacing: -1%;
+  letter-spacing: -0.5px;
   color: #485c11;
 }
 
@@ -584,7 +582,7 @@ nav .logo {
   font-size: 60px;
   font-weight: 400;
   line-height: 90%;
-  letter-spacing: -3%;
+  letter-spacing: -3px;
 }
 
 .textbox .Sno {
@@ -593,7 +591,7 @@ nav .logo {
   font-weight: 400;
   color: #929292;
   line-height: 100%;
-  letter-spacing: -4%;
+  letter-spacing: -4px;
 }
 
 .map .Howto {
@@ -620,7 +618,7 @@ nav .logo {
   font-weight: 400;
   font-size: 18px;
   line-height: 100%;
-  letter-spacing: -3%;
+  letter-spacing: -1px;
 }
 
 .map .sub-text .cap {
@@ -628,7 +626,7 @@ nav .logo {
   font-weight: 400;
   font-size: 14px;
   line-height: 130%;
-  letter-spacing: -1%;
+  letter-spacing: -0.5px;
   color: #6f6f6f;
 }
 
@@ -660,7 +658,7 @@ nav .logo {
   font-size: 60px;
   font-weight: 400;
   line-height: 90%;
-  letter-spacing: -3%;
+  letter-spacing: -3px;
 }
 
 .Connect .text {
@@ -668,7 +666,7 @@ nav .logo {
   font-weight: 400;
   font-size: 14px;
   line-height: 140%;
-  letter-spacing: -0.5%;
+  letter-spacing: -0.5px;
   color: #6f6f6f;
   text-align: center;
 }
@@ -680,7 +678,7 @@ nav .logo {
   font-weight: bold;
   font-size: 14px;
   line-height: 140%;
-  line-height: -2.5%;
+  letter-spacing: -0.5px;
   color: #ffffff;
   border: none;
   height: 48px;
@@ -723,7 +721,7 @@ footer .ft-menu li a {
   font-size: 16px;
   font-weight: 600;
   line-height: 110%;
-  letter-spacing: -2%;
+  letter-spacing: -1px;
 }
 
 footer .footlogo {
@@ -745,7 +743,6 @@ footer .footlogo p {
   font-size: 13px;
   font-weight: 400;
   line-height: 120%;
-  letter-spacing: -2%;
   color: #485c11;
 }
 
@@ -761,7 +758,6 @@ footer .adjust p {
   font-size: 13px;
   font-weight: 400;
   line-height: 120%;
-  letter-spacing: -2%;
   color: #485c11;
 }
 
