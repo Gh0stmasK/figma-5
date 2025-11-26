@@ -1007,9 +1007,9 @@ footer .adjust p {
     align-items: flex-start;
   }
 
-  /* footer .footlogo {
-    flex-wrap: wrap;
-  } */
+  footer .footlogo {
+    gap: 35px;
+  }
 
   footer .footlogo .copyrights {
     align-items: end;
