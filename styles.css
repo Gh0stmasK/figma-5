@@ -1008,6 +1008,11 @@ footer .adjust p {
   }
 
   footer .adjust {
-    gap: 0px;
+    gap: 40px;
+    justify-content: space-around;
+  }
+
+  footer .adjust p{
+    font-size: 12px;
   }
 }
