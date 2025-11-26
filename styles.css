@@ -1008,8 +1008,7 @@ footer .adjust p {
   }
 
   footer .adjust {
-    gap: 40px;
-    justify-content: space-around;
+    justify-content: left;
   }
 
   footer .adjust p{
