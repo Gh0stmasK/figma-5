@@ -10,15 +10,17 @@
 
 <body>
     <header>
-        <nav>
+        <nav id="p-cont">
             <a href="#home" class="logo">Area</a>
-            <ul class="menu">
+            <ul class="menu" id="navitems-1">
                 <li><a href="#Benefits">Benefits</a></li>
                 <li><a href="#Specifications">Specifications</a></li>
                 <li><a href="#How-to">How-to</a></li>
                 <li><a href="#Contact-Us">Contact Us</a></li>
             </ul>
-            <a href="#Learn-More" class="nav-btn">Learn More <img src="assets/↗.svg" alt=""></a>
+            <a href="#Learn-More" class="nav-btn" id="navitems-2">Learn More <img src="assets/↗.svg" alt=""></a>
+
+            <a class="hamburger" id="ham-btn"><img src="assets/Vector.svg" alt=""></a>
         </nav>
     </header>
     <main>
@@ -29,16 +31,16 @@
             </div>
         </section>
         <div class="h-d2">
-                <p class="tr">Trusted by:</p>
-                <ul class="trustees">
-                    <li><img src="assets/Logo 1.svg" alt=""></li>
-                    <li><img src="assets/Logo 2.svg" alt=""></li>
-                    <li><img src="assets/Logo 3.svg" alt=""></li>
-                    <li><img src="assets/Logo 4.svg" alt=""></li>
-                    <li><img src="assets/Logo 5.svg" alt=""></li>
-                    <li><img src="assets/Logo 6.svg" alt=""></li>
-                </ul>
-            </div>
+            <p class="tr">Trusted by:</p>
+            <ul class="trustees">
+                <li><img src="assets/Logo 1.svg" alt=""></li>
+                <li><img src="assets/Logo 2.svg" alt=""></li>
+                <li><img src="assets/Logo 3.svg" alt=""></li>
+                <li><img src="assets/Logo 4.svg" alt=""></li>
+                <li><img src="assets/Logo 5.svg" alt=""></li>
+                <li><img src="assets/Logo 6.svg" alt=""></li>
+            </ul>
+        </div>
         <section class="sec2" id="Benefits">
             <div class="s2-text">
                 <p class="h">Benefits</p>
@@ -97,7 +99,8 @@
                     </section>
                     <section>
                         <p class="Sno">03</p>
-                        <p class="lt">Make Presentations Pop: Interactive maps and dashboards keep your audience engaged.</p>
+                        <p class="lt">Make Presentations Pop: Interactive maps and dashboards keep your audience
+                            engaged.</p>
                     </section>
                     <section>
                         <p class="Sno">04</p>
@@ -255,6 +258,7 @@
             <p>All Rights Reserved</p>
         </div>
     </footer>
+    <script src="script.js"></script>
 </body>
 
 </html>
