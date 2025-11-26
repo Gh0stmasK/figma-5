@@ -848,6 +848,10 @@ footer .adjust p {
 }
 
 @media screen and (min-width: 1px) and (max-width: 799px) {
+
+  body{
+    padding: 120px 16px 0px 16px;
+  }
   .hero {
     gap: 120px;
   }
@@ -975,5 +979,9 @@ footer .adjust p {
 
   footer .footlogo{
     flex-wrap: wrap;
+  }
+
+  footer .adjust{
+    gap: 0px;
   }
 }
