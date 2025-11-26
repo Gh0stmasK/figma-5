@@ -998,9 +998,8 @@ footer .adjust p {
     text-align: center;
   }
 
-  footer{
-    padding-left: 16px;
-    padding-right: 16px;
+  footer {
+    padding: 40px 16px 20px 16px;
   }
 
   footer .ft-menu {
@@ -1016,7 +1015,7 @@ footer .adjust p {
     justify-content: left;
   }
 
-  footer .adjust p{
+  footer .adjust p {
     font-size: 12px;
   }
 }
